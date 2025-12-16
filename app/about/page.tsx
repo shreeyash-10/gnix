@@ -37,7 +37,7 @@ export default function AboutPage() {
                                 <span className="text-primary font-mono text-sm block mb-2">FOUNDED</span>
                                 <p className="text-4xl font-bold">2016</p>
                                 <p className="text-muted-foreground mt-3 text-sm leading-relaxed">
-                                    Started as GNIX Technologies; built in Bangalore with a global hardware network.
+                                    Started as GNIX Technologies; built in Noida with a global hardware network.
                                 </p>
                             </div>
                             <div className="p-8">

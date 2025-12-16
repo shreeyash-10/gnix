@@ -43,7 +43,7 @@ export default function CareersPage() {
                     <div className="space-y-4">
                         <div className="flex items-center justify-between">
                             <h3 className="text-2xl font-bold">Open Roles</h3>
-                            <span className="text-sm text-muted-foreground">Bangalore · Hybrid</span>
+                            <span className="text-sm text-muted-foreground">Noida · Hybrid</span>
                         </div>
                         <div className="space-y-3">
                             {[

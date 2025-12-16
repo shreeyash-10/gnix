@@ -49,8 +49,11 @@ export default function Home() {
                 <span className="eyebrow">Why GNIX</span>
                 <h2 className="text-3xl md:text-5xl font-bold tracking-tight">Architecture-first thinking</h2>
                 <p className="text-lg text-muted-foreground">
-                  Designed in India, built for global scale. Every layer from silicon to systems is workload driven and manufacturable.
+              Designed in India, built for global scale. Every layer from silicon to systems is workload driven and manufacturable.
                 </p>
+                <div className="rounded-lg border border-white/10 bg-white/5 p-4 text-sm text-muted-foreground leading-relaxed">
+                  Founded in 2016 as GNIX Technologies, GNIX Semicon builds AI-first silicon and systems with sustainability at their core, while investing in skill development for emerging technologies to grow the talent that will power resilient, energy-aware infrastructure.
+                </div>
                 <ul className="space-y-3 pt-2">
                   {[
                     "Architecture-first, workload-driven silicon",
