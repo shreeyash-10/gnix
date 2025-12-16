@@ -47,6 +47,15 @@ export function HeroSection() {
                 <motion.div
                     initial={{ opacity: 0, y: 20 }}
                     animate={{ opacity: 1, y: 0 }}
+                    transition={{ duration: 0.5, delay: 0.25 }}
+                    className="max-w-[760px] w-full bg-white/5 border border-white/10 rounded-xl p-4 text-sm md:text-base text-muted-foreground mb-8 leading-relaxed"
+                >
+                    Founded in 2016 as GNIX Technologies, we build AI-first silicon and systems with sustainability at their core while developing skills in emerging technologies — from Noida to the world.
+                </motion.div>
+
+                <motion.div
+                    initial={{ opacity: 0, y: 20 }}
+                    animate={{ opacity: 1, y: 0 }}
                     transition={{ duration: 0.5, delay: 0.3 }}
                     className="flex flex-col sm:flex-row gap-4"
                 >
