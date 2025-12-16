@@ -12,6 +12,10 @@ export default function AboutPage() {
                     </p>
                 </div>
 
+                <div className="max-w-4xl mx-auto rounded-xl border border-white/10 bg-white/5 p-6 text-center text-lg text-muted-foreground leading-relaxed">
+                    Founded in 2016 as GNIX Technologies, GNIX Semicon builds AI-first silicon and systems with sustainability at their core, while investing in skill development for emerging technologies to grow the talent that will power resilient, energy-aware infrastructure.
+                </div>
+
                 <div className="grid md:grid-cols-2 gap-12 items-start max-w-6xl mx-auto">
                     <div className="section-header gap-5">
                         <h2 className="text-3xl font-bold">Our Mission</h2>
@@ -31,9 +35,9 @@ export default function AboutPage() {
                         <div className="grid grid-cols-2 divide-x divide-white/10">
                             <div className="p-8">
                                 <span className="text-primary font-mono text-sm block mb-2">FOUNDED</span>
-                                <p className="text-4xl font-bold">2024</p>
+                                <p className="text-4xl font-bold">2016</p>
                                 <p className="text-muted-foreground mt-3 text-sm leading-relaxed">
-                                    Built in Bangalore with a global hardware network.
+                                    Started as GNIX Technologies; built in Bangalore with a global hardware network.
                                 </p>
                             </div>
                             <div className="p-8">
